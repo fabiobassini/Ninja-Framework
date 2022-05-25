@@ -1,3 +1,3 @@
 # Ninja-Framework
 
-In fase di sviluppo
+Still under development
